@@ -24,7 +24,7 @@ public class AdicionarProdutoCarrinho extends HttpServlet {
         
        String Idproduto = request.getParameter("idProduto");
        
-       out.println("id : " + Idproduto );
+       out.println("<br/>id: <strong>" + Idproduto + "</strong>");
        
        
         
