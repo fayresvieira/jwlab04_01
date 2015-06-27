@@ -1,3 +1,13 @@
+/*
+
+Classe catalogoProdutosView - Gera um arquivo HTML com informações obtidas através do servlet e repassa a classe
+AdicionarProdutoCarrinho o Id para tratamento.
+
+fabricio.ayres@gmail.com  - Fabrício Ayres Vieira
+
+*/
+
+
 package br.javaweb.ecommerce;
 
 import java.io.*;

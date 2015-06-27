@@ -1,3 +1,14 @@
+/*
+
+Classe AdicionarProdutoCarrinho - Utiliza a classe de Catalogo para pegar informações através do Id,
+para adicionar ao carrnho de compras;
+Através do atributo getParameters();
+
+fabricio.ayres@gmail.com  - Fabrício Ayres Vieira
+
+*/
+
+
 package br.javaweb.ecommerce;
 
 import java.io.IOException;
